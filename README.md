@@ -1,1 +1,4 @@
-# swiss-poster-2022
+# Swiss poster
+
+A swiss poster made in CSS Grid.
+
